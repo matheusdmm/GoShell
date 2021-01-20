@@ -1,0 +1,2 @@
+# GoShell
+Shell in go!
